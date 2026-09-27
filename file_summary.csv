@@ -1,0 +1,12 @@
+load,file,records,size_MB
+full_load,page_001.json,5000,1.694315
+full_load,page_002.json,5000,1.695726
+full_load,page_003.json,5000,1.696125
+full_load,page_004.json,5000,1.69646
+full_load,page_005.json,5000,1.695258
+full_load,page_006.json,5000,1.694962
+full_load,page_007.json,5000,1.695498
+full_load,page_008.json,5000,1.696323
+full_load,page_009.json,5000,1.69609
+full_load,page_010.json,4124,1.399584
+incremental_load,page_001.json,372,0.126402
