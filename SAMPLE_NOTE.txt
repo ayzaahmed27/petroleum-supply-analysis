@@ -1,0 +1,4 @@
+Full-load JSON files are selected raw pages, not the entire dataset.
+Full baseline: January 2005 to December 2025.
+Incremental payload: January 2026.
+CSV reports describe the complete saved loads, not only this sample.
