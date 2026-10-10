@@ -383,6 +383,12 @@ same raw input.
 ## Validation Evidence
 
 The notebook includes saved outputs for the following demonstrations:
+The exported audit logs are available in
+[Phase 2 Audit Evidence](phase2_audit_evidence.csv).
+
+This file contains 10 selected runs: 9 successful runs and
+1 intentional failure. It includes the controlled revision update,
+rerun checks, schema-drift handling, and backfill tests.
 
 | Test | Observed result |
 |---|---|
