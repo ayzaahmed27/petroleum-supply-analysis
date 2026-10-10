@@ -390,6 +390,10 @@ This file contains 10 selected runs: 9 successful runs and
 1 intentional failure. It includes the controlled revision update,
 rerun checks, schema-drift handling, and backfill tests.
 
+The [executed notebook](Petroleum_Phase2_Execution_Evidence.ipynb)
+contains saved outputs demonstrating schema enforcement, MERGE updates,
+idempotency, schema-drift handling, failure logging, and backfill tests.
+
 | Test | Observed result |
 |---|---|
 | Full raw load | 136 successful files, 675,752 records read |
