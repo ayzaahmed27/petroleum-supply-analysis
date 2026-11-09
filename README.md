@@ -80,8 +80,8 @@ Included activities:
 
 - Field production
 - Refinery and blender net production
-- Imports
 - Exports
+- Imports
 - Product supplied
 - Ending stocks
 - Stock change
